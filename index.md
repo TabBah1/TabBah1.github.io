@@ -349,7 +349,7 @@
       <div class="formation-item">
         <div>
           <h3>Licence Économie et Gestion</h3>
-          <span class="status">Université de Lille — <a href="./documents/licence-eco-gestion-2020.pdf" target="_blank" rel="noopener" style="color:var(--cyan);">voir le diplôme ↗</a></span>
+          <span class="status">Université de Lille — <a href="./documents/diplome_L_E_G.pdf" target="_blank" rel="noopener" style="color:var(--cyan);">voir le diplôme ↗</a></span>
         </div>
         <span class="period">2017 – 2020</span>
       </div>
